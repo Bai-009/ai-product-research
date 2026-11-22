@@ -15,7 +15,7 @@
 
 ---
 
-## 二、精选产品与技术影片（3 条打磨成品）
+## 二、精选产品与技术影片（2 条打磨成品）
 
 托管于本仓库 [GitHub Release · `videos-v1`](https://github.com/Bai-009/ai-product-research/releases/tag/videos-v1)（仅收录完成度最高的精选成片）：
 
@@ -23,7 +23,6 @@
 |---|---|---|---|
 | **01** | [Astra · Context-to-Execution Runtime 概念影片](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/01-Astra-Context-Runtime-Film-4K.mp4) | 1m27s · 4K · 配乐+字幕 | 借鉴数据库查询规划与 `EXPLAIN`，以一次支付系统迁移串起上下文组装、判断依据延续与运行过程追溯。 |
 | **02** | [Silence · 云端 Agent 静默故障与外部 Loop 恢复](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/02-CloudAgent-Silence-Film-1080p.mp4) | 3m28s · 1080p · 英文配音+字幕 | 第 04 篇长文配套叙事影片：从本地迁云、多任务交叉依赖委托、凌晨沙箱静默失效，到控制面外置与跨环境接续恢复的完整机制呈现。 |
-| **03** | [CanvasFlow · AI 画布工作流原型演示](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/03-CanvasFlow-Prototype-Demo-1080p.mp4) | 59s · 1080p · 配乐+章节导览 | 直接基于交互原型录制：展示「先对齐计划与待确认项 → 按依赖连线逐节点生长与校验 → 仅重做受影响节点的局部修订」完整三段闭环。 |
 
 ---
 
