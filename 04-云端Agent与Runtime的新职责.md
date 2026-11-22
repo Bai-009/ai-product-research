@@ -1,6 +1,6 @@
 # 云端 agent 与 runtime 的新职责
 
-> 配套演示影片：[《Silence：云端 Agent 静默故障与外部 Loop 恢复》（3m28s, 1080p）](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/02-CloudAgent-Silence-Film-1080p.mp4) ｜ [《Astra 调用账本与幂等准入 · Linear 动效》（54s, 1080p）](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/03-Astra-Invocation-Journal-Linear-1080p.mp4)
+> 配套演示影片：[《Silence：云端 Agent 静默故障与外部 Loop 恢复》（3m28s, 1080p）](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/02-CloudAgent-Silence-Film-1080p.mp4) ｜ [《Astra：Context-to-Execution Runtime 概念影片》（1m27s, 4K）](https://github.com/Bai-009/ai-product-research/releases/download/videos-v1/01-Astra-Context-Runtime-Film-4K.mp4)
 
 ![云端 agent 与 runtime 的新职责](./images/04-cloud-agent/00-cover.png)
 
